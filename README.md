@@ -20,7 +20,7 @@ You play a **gate guardian** at a grand masquerade party, matching the right par
 
 ## 🎨 My contribution
 
-I'm **Gian Angely** — **2D Artist, Environment Designer & Game Designer** on the team. Everything in this repository is environment art I drew for the game: the night-time city, the guardian's stone gate, and the ballroom scene.
+I'm **Gianne Angely** — **2D Artist, Environment Designer & Game Designer** on the team. Everything in this repository is environment art I drew for the game: the night-time city, the guardian's stone gate, and the ballroom scene.
 
 ## 🖼️ The scenes
 
@@ -65,7 +65,7 @@ Adobe Photoshop · Krita. All illustrations are original.
 | Member | Role |
 |---|---|
 | I Putu Gde Aditya Stiti Adnyana | Project Lead · Game Designer · Programmer · Integration · QA |
-| **Gian Angely** *(this repo)* | **2D Artist · Environment Designer · Game Designer** |
+| **Gianne Angely** *(this repo)* | **2D Artist · Environment Designer · Game Designer** |
 | I Gede Wahyu Widiatmika | 2D Animator · Game Designer |
 | I Putu Ade Rangga Putra | UI Designer · Game Designer |
 
@@ -77,4 +77,4 @@ Adobe Photoshop · Krita. All illustrations are original.
 
 ## 📄 Usage & credits
 
-All artwork here is original, created by **Gian Angely** for the project. *Match the Mask* is a collaborative Global Game Jam 2026 project — the game itself, its code, and other assets belong to the full **ARTSCIM Community** team. Please keep credit intact and reach out before reusing the art.
+All artwork here is original, created by **Gianne Angely** for the project. *Match the Mask* is a collaborative Global Game Jam 2026 project — the game itself, its code, and other assets belong to the full **ARTSCIM Community** team. Please keep credit intact and reach out before reusing the art.
