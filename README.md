@@ -1,10 +1,10 @@
 # 🎭 Match the Mask — Environment Art
 
-Environment and scene art for **Match the Mask**, a game made in 48 hours at **Global Game Jam 2026** (theme: *Mask*) by the **ARTSCIM Community** team. This repository holds the hand-drawn environment artwork I created for the game — built up layer by layer, from rough sketch to final sparkle-lit render.
+Environment and scene art for **Match the Mask**, a game made in 48 hours at **Global Game Jam 2026** (theme: *Mask*) by the **ARTSCIM Community** team. This repository holds the hand-drawn environment artwork I created for the game — built up layer by layer, from rough sketch to final render.
 
 > 🗂️ This is an **art / asset showcase**. To actually play the game, head to the team's official page → **[adityaadnyana.itch.io/match-the-mask](https://adityaadnyana.itch.io/match-the-mask)**
 
-![The finished ballroom — chandeliers, arched windows, and a reflective marble floor](pesta/berkilau.png)
+![The guardian's stone gate — heraldic lions, sword-and-shield crests, and lit torches](foreground/foreground.png)
 
 ---
 
@@ -20,19 +20,15 @@ You play a **gate guardian** at a grand masquerade party, matching the right par
 
 ## 🎨 My contribution
 
-I'm **Gian Angely** — **2D Artist, Environment Designer & Game Designer** on the team. Everything in this repository is environment art I drew for the game: the night-time city gate, the guardian's stone gateway, and the sparkling ballroom.
+I'm **Gian Angely** — **2D Artist, Environment Designer & Game Designer** on the team. Everything in this repository is environment art I drew for the game: the night-time city, the guardian's stone gate, and the ballroom scene.
 
 ## 🖼️ The scenes
 
-**The guardian's gate** — a stone archway with heraldic lions, sword-and-shield crests, and lit torches. This is the foreground frame the gameplay plays through:
-
-![The guardian's stone gate with torches and heraldry](foreground/foreground.png)
+Shown at the top: **the guardian's gate** — a stone archway with heraldic lions, sword-and-shield crests, and lit torches; the foreground frame the gameplay plays through.
 
 **The night city** — a gothic skyline at dusk, warm light spilling from the gateway onto the cobblestones:
 
 ![Gothic city skyline at night with a glowing gateway](background/bg.png)
-
-*…and the grand ballroom party scene shown at the top of this page.*
 
 ## ✏️ Process
 
