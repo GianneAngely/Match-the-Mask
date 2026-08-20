@@ -1,6 +1,6 @@
 # 🎭 Match the Mask — Environment Art
 
-Environment and scene art for **Match the Mask**, a game made in 48 hours at **Global Game Jam 2026** (theme: *Mask*) by the **ARTSCIM Community** team. This repository holds the hand-drawn environment artwork I created for the game — built up layer by layer, from rough sketch to final render.
+Environment and scene art for **Match the Mask**, a game made in 48 hours at **Global Game Jam 2026** (theme: *Mask*) by the **ARTSCIM Community** team. This repository holds the environment artwork I created for the game.
 
 > 🗂️ This is an **art / asset showcase**. To actually play the game, head to the team's official page → **[adityaadnyana.itch.io/match-the-mask](https://adityaadnyana.itch.io/match-the-mask)**
 
@@ -20,7 +20,7 @@ You play a **gate guardian** at a grand masquerade party, matching the right par
 
 ## 🎨 My contribution
 
-I'm **Gianne Angely** — **2D Artist, Environment Designer & Game Designer** on the team. Everything in this repository is environment art I drew for the game: the night-time city, the guardian's stone gate, and the ballroom scene.
+I'm **Gianne Angely** — **2D Artist, Environment Designer & Game Designer** on the team. Everything in this repository is environment art I made for the game: the night-time city, the guardian's stone gate, and the ballroom scene.
 
 ## 🖼️ The scenes
 
@@ -32,7 +32,7 @@ Shown at the top: **the guardian's gate** — a stone archway with heraldic lion
 
 ## ✏️ Process
 
-Every scene is drawn through the full illustration process. Here's the background, from perspective sketch to final render:
+Here's the background, from perspective sketch to final render:
 
 <table>
   <tr>
@@ -46,7 +46,7 @@ Every scene is drawn through the full illustration process. Here's the backgroun
 
 ## 📁 Repository structure
 
-Three layer groups, each drawn through `sketch → line art → flat color → shading → finish`:
+Three layer groups that make up the scene:
 
 | Folder | Contents |
 |---|---|
@@ -56,7 +56,7 @@ Three layer groups, each drawn through `sketch → line art → flat color → s
 
 ## 🛠️ Tools
 
-Adobe Photoshop · Krita. All illustrations are original.
+Krita.
 
 ## 👥 Credits — Team ARTSCIM Community
 
@@ -77,4 +77,4 @@ Adobe Photoshop · Krita. All illustrations are original.
 
 ## 📄 Usage & credits
 
-All artwork here is original, created by **Gianne Angely** for the project. *Match the Mask* is a collaborative Global Game Jam 2026 project — the game itself, its code, and other assets belong to the full **ARTSCIM Community** team. Please keep credit intact and reach out before reusing the art.
+These are the environment art assets **Gianne Angely** contributed to the project. *Match the Mask* is a collaborative Global Game Jam 2026 project — the game itself, its code, and other assets belong to the full **ARTSCIM Community** team. Please keep credit intact and reach out before reusing the art.
